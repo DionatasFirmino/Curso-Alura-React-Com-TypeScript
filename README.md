@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Formação - React com TypeScript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Curso de [React: escrevendo com Typescript](https://cursos.alura.com.br/course/react-modernizando-escrever-typescript).
 
 ## Available Scripts
 
