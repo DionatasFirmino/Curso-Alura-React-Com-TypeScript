@@ -35,7 +35,7 @@ function App() {
 
 	return (
 		<div className={Style.AppStyle}>
-			<Form setTask={setTasks} />
+			<Form setTasks={setTasks} />
 			<List
 				tasks={tasks}
 				selectTask={selectTask}
